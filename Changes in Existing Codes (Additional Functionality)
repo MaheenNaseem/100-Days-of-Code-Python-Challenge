@@ -1,10 +1,27 @@
-TODO LIST:
-1. Day 09 - If bids tie functionality
-2. Day 10 
-   - Add number input in leap year program
-   - Error Handling in Calculator project
-3. Day 11
-   - Clean the code, increase modularity
-4. Day 12
-   - Create modularity
-   - Add input validation
+✅ DONE:
+1. Day 14: Higher or Lower Game Improvements
+   - Modular design principles (individual functions for clarity and reuse)
+   - An anti-duplication check to ensure the two compared choices are always unique
+   - A function to carry the winning choice forward after each correct guess
+   - Docstrings and comments for better code readability
+   - Cleaner replay handling and user feedback
+
+🔧 TODO:
+1. Day 09 – Silent Auction
+   - Add logic to handle tie bids (if two bidders offer the same amount).
+2. Day 10 – Calculator & Leap Year
+   - Allow user input for leap year validation (currently hardcoded).
+   - Add error handling for invalid operations or inputs in the calculator.
+3. Day 11 – Blackjack Game
+   - Refactor to clean up code structure.
+   - Increase modularity by breaking down the logic into smaller, reusable functions.
+4. Day 12 – Number Guessing Game
+   - Improve code modularity.
+   - Add input validation for number guesses (range and type checking).
+5. Day 14 - Higher or Lower Game Improvements
+   - Input Validation
+
+
+
+
+
