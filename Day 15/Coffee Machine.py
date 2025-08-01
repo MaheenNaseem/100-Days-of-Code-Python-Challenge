@@ -57,18 +57,22 @@ RESOURCES = {
 # Print report.
 def print_report(money,resources):
         for key, value in resources.items():
+            #outputs the key and value (water : 200)
             print(f"{key}: {value}")
         print(f"Money: ${money}")
 
 #  Check resources sufficient?
 def resource_check(drink,menu,resources):
+    #loop over the ingredients of the drink (espresso/latte) as key for the dict 
     for key, value in menu[drink]["ingredients"].items():
+        #if the value of ingredient is higher than what is available
         if value > resources[key]:
             print(f"Sorry! Not enough {key}.")
             return False
     return True
 
 def deducting_resources(drink,menu,resources):
+    #reduces the value of the drink's ingredients from the resource's bank
     for key, value in menu[drink]["ingredients"].items():
         resources[key] -= value
 
