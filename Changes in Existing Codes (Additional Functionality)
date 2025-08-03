@@ -20,6 +20,8 @@
    - Add input validation for number guesses (range and type checking).
 5. Day 14 - Higher or Lower Game Improvements
    - Input Validation
+6. Day 17 - Quiz Game
+   - create multiple levels (Easy, Medium, Hard) for questions
 
 
 
