@@ -1,0 +1,8 @@
+There are two data lists in data.py. You can change the question data by making the following changes in main.py
+
+1. from data import question_data2
+
+8. for question in question_data2:
+10.    question_text = question["question"]
+11.    question_answer = question["correct_answer"]
+
