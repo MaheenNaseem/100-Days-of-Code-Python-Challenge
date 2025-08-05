@@ -1,0 +1,17 @@
+#Turtle Race Project Summary
+
+- Created an interactive Turtle Race Game using Python's turtle graphics module
+- Added a color betting system where users guess the winning turtle.
+- Implemented robust input validation to ensure correct color input and re-prompts on wrong input.
+- Dynamically generated turtle racers with unique colors and positions.
+- Used random speeds to simulate a fair race.
+- Displays a winner or loser message after the race ends.
+- Program auto-closes the screen after race completion.
+- Enhanced case-insensitive input handling for better user experience.
+
+#Differences from Angela Yu's Version
+
+- Added input validation loop to reject invalid or non-color inputs.
+- Enhanced case-insensitive color matching.
+- Turtle placement and race logic followed the original structure.
+- Used screen.bye() to auto-close after the winner is announced.
