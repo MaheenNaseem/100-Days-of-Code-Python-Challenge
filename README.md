@@ -1,7 +1,7 @@
 # 100 Days of Python Code Challenge 🐍
 
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
-![Days Completed](https://img.shields.io/badge/Days-21%2F100-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days-20%2F100-brightgreen)
 
 👋 Hello! I'm Maheen, documenting my Python learning journey through #100DaysOfCode.
 
