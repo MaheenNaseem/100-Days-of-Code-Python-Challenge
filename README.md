@@ -4,7 +4,7 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/MaheenNaseem/100-Days-of-Code-Python-Challenge)
 
 # 👋 Hello, I'm Maheen!
-Welcome to my #100DaysOfCode Python Challenge repository. This space is dedicated to documenting my daily coding journey, learning Python from the basics to advanced projects.
+Welcome to my #100DaysOfCode Python Challenge repository. This space is dedicated to documenting my daily coding journey, from learning the basics of Python to advanced projects.
 
 # 🚀 About This Challenge
 This challenge is inspired by Angela Yu’s "100 Days of Python" Bootcamp. The main goals are:
@@ -27,5 +27,5 @@ This challenge is inspired by Angela Yu’s "100 Days of Python" Bootcamp. The m
 - StackOverflow, and Google!
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/maheennaseem/)
+- 💼 [LinkedIn](www.linkedin.com/in/maheen-naseem-azeemi-0b7592250)
 
