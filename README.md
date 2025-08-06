@@ -6,6 +6,13 @@
 ## 👋 Hello, I'm Maheen!
 Welcome to my #100DaysOfCode Python Challenge repository. This space is dedicated to documenting my daily coding journey, from learning the basics of Python to advanced projects.
 
+## Levels:
+- Beginner (Day 1 - Day 15) ✔️
+- Intermediate (Day 16 - Day 30)
+- Intermediate + (Day 31 - Day 54)
+- Advanced (Day 59 - Day 81)
+- Professtional Protfolio Project (Day 82 - Day 100)
+
 ## Each day's folder contains:
 - Challenge/Project Name folder
 - `.py` Source Code
