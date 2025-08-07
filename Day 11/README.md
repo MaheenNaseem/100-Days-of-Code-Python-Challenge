@@ -2,5 +2,5 @@
 
 ## Blackjack Project  
 1. Blackjack Requirements and Game Rules
-__Output__<br>
-<img width="537" height="482" alt="D11" src="https://github.com/user-attachments/assets/3c2f8bd6-2c8e-47d6-a391-6936cec580b4" />
+<br>__Output__<br>
+<img width="537" height="482" alt="D11" src="https://github.com/user-attachments/assets/2dab626a-8d9c-4ac4-bfb5-8527e5d7c378" />
