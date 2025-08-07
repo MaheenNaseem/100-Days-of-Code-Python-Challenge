@@ -17,11 +17,11 @@
   
 ## Output
 - Takes input from user:<br>
-<img width="295" height="195" alt="D16 - A" src="https://github.com/user-attachments/assets/ea41fbe0-a1d6-488b-af6c-40c7ac36e2b3" />
-<img width="510" height="134" alt="D16 - B" src="https://github.com/user-attachments/assets/4de437d9-c79d-470b-b5b4-7c6ade5f7501" />
-<img width="511" height="133" alt="Day 16 - C" src="https://github.com/user-attachments/assets/551b238e-cac6-468a-9239-e3d7417251e0" />
+<img width="295" height="195" alt="D16 - A" src="https://github.com/user-attachments/assets/ea41fbe0-a1d6-488b-af6c-40c7ac36e2b3" /><br>
+<img width="510" height="134" alt="D16 - B" src="https://github.com/user-attachments/assets/4de437d9-c79d-470b-b5b4-7c6ade5f7501" /><br>
+<img width="511" height="133" alt="Day 16 - C" src="https://github.com/user-attachments/assets/551b238e-cac6-468a-9239-e3d7417251e0" /><br>
 <br>
-- Race starts:
+- Race starts:<br>
 https://github.com/user-attachments/assets/de7d4065-f5b7-435f-a69c-12de4c2c8e4a
 <br>
 - Shows output on Terminal<br>
