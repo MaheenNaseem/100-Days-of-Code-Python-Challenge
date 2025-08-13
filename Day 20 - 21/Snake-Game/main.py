@@ -45,15 +45,21 @@ while game_is_on:
         snake.extend()
 
     #detecting collision with wall
-    if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 250 or snake.head.ycor() < -280:
+    if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
         scores.game_over("wall")
-        game_is_on = False
+        time.sleep(2)
+        scores.reset()
+        snake.reset()
+
 
     #detecting collision with tail
     #we will slice the snake length to skip the head index
     for segments in snake.segments[1: ]:
         if snake.head.distance(segments) < 10:
-            game_is_on = False
             scores.game_over("tail")
+            time.sleep(2)
+            scores.reset()
+            snake.reset()
+            food.reset()
 
 screen.exitonclick()

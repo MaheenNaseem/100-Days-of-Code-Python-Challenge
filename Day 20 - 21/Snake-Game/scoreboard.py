@@ -1,28 +1,37 @@
 from turtle import Turtle, Screen
-
 screen = Screen()
 
 class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
         self.score = 0
+        with open("Highscore.txt") as file:
+            self.highscore = int(file.read())
         self.hideturtle()
         self.color("white")
         self.penup()
-        self.goto(0,250)
         self.update_score()
 
     def update_score(self):
         self.clear()
-        self.write(f"Score = {self.score}", False, "center", ("Fixedsys", 20, "bold"))
+        self.goto(0,250)
+        self.write(f"Score = {self.score}  HighScore = {self.highscore}", False, "center", ("Fixedsys", 20, "bold"))
 
     def increase_score(self):
         self.score += 1
         self.update_score()
 
+    def reset(self):
+        if self.score > self.highscore:
+            self.highscore = self.score
+            with open("Highscore.txt", mode = "w") as file:
+                file.write(str(self.highscore))
+        #resets score for next player
+        self.score = 0
+        self.update_score()
+
     def game_over(self,collision):
         screen.tracer(0)
-        self.screen.clear()
         self.screen.bgcolor("black")
         self.goto(0,0)
         self.color("Red")
