@@ -1,6 +1,6 @@
 # 100 Days of Python Code Challenge 🐍
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Days Completed](https://img.shields.io/badge/Progress-22%2F100-brightgreen)
+![Days Completed](https://img.shields.io/badge/Progress-24%2F100-brightgreen)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/MaheenNaseem/100-Days-of-Code-Python-Challenge)
 
 ## 👋 Hello, I'm Maheen!
