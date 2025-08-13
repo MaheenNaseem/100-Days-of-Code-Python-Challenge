@@ -1,8 +1,8 @@
 #opening the file and reading its content
 
-# with open("file.txt") as file:
-#     content = file.read()
-#     print(content)
+with open("file.txt") as file:
+     content = file.read()
+     print(content)
 
 #write inside the file
 
@@ -13,4 +13,5 @@ with open("file.txt", mode = "w") as file:
 
 with open("file.txt", mode = "a") as file:
     file.write("\nFile was appended.")
+
 
