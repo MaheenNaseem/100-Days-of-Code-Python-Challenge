@@ -1,10 +1,10 @@
 # Day 20 - 21 : Snake Game
 ## New File:
-[Highscore.txt](<100-Days-of-Code-Python-Challenge/blob/main/Day%2020%20-%2021/Snake-Game/Highscore.txt>)
+[Highscore.txt](</Day%2020%20-%2021/Snake-Game/Highscore.txt>)
 
 ## Edited Files:
-[main.py](<100-Days-of-Code-Python-Challenge/blob/main/Day%2020%20-%2021/Snake-Game/main.py>)
-[scoreboard.py](<100-Days-of-Code-Python-Challenge/blob/main/Day%2020%20-%2021/Snake-Game/scoreboard.py>)
+[main.py](</Day%2020%20-%2021/Snake-Game/main.py>)
+[scoreboard.py](</Day%2020%20-%2021/Snake-Game/scoreboard.py>)
 
 ## D20 - Part 1: Animation & Coordinates
 ### Steps For Part 1:
