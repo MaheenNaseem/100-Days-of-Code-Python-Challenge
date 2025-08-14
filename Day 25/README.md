@@ -6,5 +6,7 @@
 3. Exercise: The Great Squirrel Census Data Analysis (with Pandas!)
 
 ## Project: U.S State Game
-__OutPut: __
-https://github.com/user-attachments/assets/971ad34f-aae2-4bde-9bad-176e714ac7ee
+__Output:__
+<br>
+
+https://github.com/user-attachments/assets/a8c12b2b-b903-435f-8f00-75567e0a7719
