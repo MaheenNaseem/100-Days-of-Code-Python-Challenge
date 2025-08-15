@@ -24,10 +24,15 @@ while len(guessed) < 50:
     user_guess = user_guess.title()
 
     if user_guess == "Exit":  # Cancel button pressed
-        missing_states = []
-        for state in states:
-            if state not in guessed:
-                missing_states.append(state)
+        # Day 25
+        # missing_states = []
+        # for state in states:
+        #     if state not in guessed:
+        #         missing_states.append(state)
+
+        #Day 26 update - List Comprehension
+        missing_states = [state for state in states if state not in guessed]
+        
         new_data = pandas.DataFrame(missing_states)
         new_data.to_csv("States to Learn")
         break
@@ -45,4 +50,5 @@ while len(guessed) < 50:
         guessed.append(user_guess)
 
 turtle.mainloop()
+
 
