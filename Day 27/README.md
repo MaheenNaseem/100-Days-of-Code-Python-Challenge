@@ -10,7 +10,6 @@ __Topics Covered:__
 7. Other Tkinter Widgets: Radiobuttons, Scales, Checkbuttons and more [Open](</Day 27/Exploring-Tkinter/My-take.py>)
 8. Tkinter Layout Managers: pack(), place() and grid() [Open](</Day 27/Exploring-Tkinter/main.py#L12-L22>)
 <br>
-<br>
 __Project: Mile to Kilometers Converter__
 <br>
 Go to Code: [Click Here](</Day 27/Mile-to-KM>)
