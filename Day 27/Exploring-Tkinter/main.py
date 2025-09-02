@@ -14,9 +14,10 @@ my_label = tkinter.Label(text = "I am a Label", font = ["Arial",24, "bold"])
 # .pack() : Automatically lay and center it on the screen
 # my_label.pack(side = "top", expand = 0)
 
-# place(): Provides precise position for the widget using x and y
+# .place(): Provides precise position for the widget using x and y
 # my_label.place(x =100, y= 200)
-# grid():
+
+# .grid(): works on column and row 
 my_label.config(text = "New Text")
 my_label.grid(column = 0, row=0 )
 
@@ -37,3 +38,4 @@ entry = tkinter.Entry( width = 20)
 entry.config(justify="center")
 entry.grid(column=4, row=3)
 window.mainloop()
+
