@@ -11,5 +11,6 @@ __Project: Pomodoro Timer__
 <br>
 For Source Code: [Click Here](<>)
 <br>
-https://github.com/user-attachments/assets/00a89997-442a-43ce-993d-1957b6f96304
+https://github.com/user-attachments/assets/404be9f8-b931-467c-9dc8-1e693b77032c
+
 
