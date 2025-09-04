@@ -7,8 +7,7 @@ __Topics Covered:__
 4. Setting Different Timer Sessions and Values
 5. Adding Checkmarks and Resetting the Application
 <br>
-__Project: Pomodoro Timer__
-<br>
+## Project: Pomodoro Timer
 For Source Code: [Click Here](</Day 28/Project - Pomodoro Technique/main.py>)
 <br>
 
