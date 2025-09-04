@@ -9,6 +9,6 @@ __Topics Covered:__
 
 ## Project: Pomodoro Timer
 For Source Code: [Click Here](</Day 28/Project - Pomodoro Technique/main.py>)
-
 <br>
+
 https://github.com/user-attachments/assets/404be9f8-b931-467c-9dc8-1e693b77032c
