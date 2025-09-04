@@ -6,9 +6,9 @@ __Topics Covered:__
 3. Dynamic Typing Explained
 4. Setting Different Timer Sessions and Values
 5. Adding Checkmarks and Resetting the Application
-<br>
+
 ## Project: Pomodoro Timer
 For Source Code: [Click Here](</Day 28/Project - Pomodoro Technique/main.py>)
-<br>
 
+<br>
 https://github.com/user-attachments/assets/404be9f8-b931-467c-9dc8-1e693b77032c
