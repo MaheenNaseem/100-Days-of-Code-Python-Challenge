@@ -30,15 +30,18 @@ __Here are some changes that I implemented in the original Angela Yu's Version:_
 6. Allow user to copies the password when they search the website
 
 ## Screen Shots:
-__Saving Password__ <br>
+### Saving Password 
+<br>
 <img width="722" height="678" alt="image" src="https://github.com/user-attachments/assets/ec7ad81e-35d1-4920-a97b-553e8e4f28ae" /> <br>
 <img width="716" height="684" alt="image" src="https://github.com/user-attachments/assets/3e098e77-c0c3-4340-b182-0c3c382c2e58" /> <br>
 <img width="475" height="278" alt="image" src="https://github.com/user-attachments/assets/0da17136-0c0a-456a-b6e6-df817d7fb14e" /> <br>
 <img width="342" height="242" alt="image" src="https://github.com/user-attachments/assets/b7bc93d4-103b-48bc-ae2b-fb85d1797153" /> <br>
-__Retrieving Password__ <br>
+### Retrieving Password
+<br>
 <img width="717" height="681" alt="image" src="https://github.com/user-attachments/assets/870a0439-7f44-49e4-9e74-ed5d068fd574" /> <br>
 <img width="944" height="677" alt="image" src="https://github.com/user-attachments/assets/6e130615-ea9a-4cec-8be7-c8f4b0d6dda1" /> <br>
-__Json File:__ <br>
+### Json File: 
+<br>
 <img width="799" height="711" alt="image" src="https://github.com/user-attachments/assets/fb1c1b73-f0da-4d75-a23b-e02d378296a6" /> <br> 
 
 
