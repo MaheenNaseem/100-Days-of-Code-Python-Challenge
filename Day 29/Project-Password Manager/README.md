@@ -9,8 +9,9 @@ It allows you to:
 4. Copy passwords directly to the clipboard
 <br>
 This project is based on Angela Yu’s 100 Days of Code – Day 30 project, but I extended it with additional features and improvements.
-<br>
+
 ## Project Feature: 
+
 <br>
 1. Generates strong passwords using letters, numbers, and symbols
 2. It stores the entered credentials (Website, email, password)
