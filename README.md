@@ -8,8 +8,8 @@ Welcome to my #100DaysOfCode Python Challenge repository. This space is dedicate
 
 ## Levels:
 - Beginner (Day 1 - Day 15) ✔️
-- Intermediate (Day 16 - Day 30)
-- Intermediate + (Day 31 - Day 54)
+- Intermediate (Day 16 - Day 31)
+- Intermediate + (Day 32 - Day 54)
 - Advanced (Day 59 - Day 81)
 - Professional Portfolio Project (Day 82 - Day 100)
 
