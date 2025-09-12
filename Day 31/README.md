@@ -6,6 +6,8 @@ This project is a Flash Card App designed to help learn and revise Turkish vocab
 - Skip Known Words: If the user knows the word, they can skip it without revealing the translation.
 - Review Unknown Words: If the user doesn’t know the word, they can flip the card to see the English translation. These unknown words are saved and will resurface for further practice.
 - Progress Tracking: The app remembers which words are left to learn, so progress is saved between sessions.
+## Note:
+If you want to use a different language, you can change file [here](</Day 31/Capstone-Flash-Card-Project/main.pyL#13>) with your desired language's CSV and change the language name [here](</Day 31/Capstone-Flash-Card-Project/main.pyL#47>) for the program to run.
 ## Project:
 https://github.com/user-attachments/assets/36f21f90-0796-48b9-ac11-c117c7cf6252
 
