@@ -1,5 +1,6 @@
 # Day 32 - Intermediate+ Send Email (smtplib) & Manage Dates (datetime)
-This project is an implementation of the "Birthday Wisher" exercise from the 100 Days of Python course. It automatically sends a birthday greeting email to people listed in a CSV file if their birthday matches the current date.
+This project is an implementation of the "Birthday Wisher" exercise from the 100 Days of Python course. It automatically sends a birthday greeting email to people listed in a CSV file if their birthday matches the current date.<br>
+To prevent any security issues, I've used Ethereal email instead of service providers.
 ## Features
 1. Reads and parses birthday data from a birthdays.csv file.
 2. Matches today’s date against stored birthdays.
