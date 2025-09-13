@@ -1,8 +1,8 @@
 import datetime as dt
 import smtplib, random
 
-my_email = "lucius73@ethereal.email"
-password = "rXfG29PJQKJy7B614V"
+my_email = "---"
+password = "---"
 
 now = dt.datetime.now()
 minutes = now.minute
@@ -31,3 +31,4 @@ if min_list[1] == "0":
                 print("Mail Sent!")
     except Exception :
         print("Connection was not established")
+
