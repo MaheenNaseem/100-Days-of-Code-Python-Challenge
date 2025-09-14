@@ -9,7 +9,7 @@ To prevent any security issues, I've used Ethereal email instead of service prov
 5. Sends the customized birthday email through an SMTP server.
 
 ## Project Showcase:
-For Source Code, click [Here](</Birthday-Wisher-Project/main.py>) <br>
+For Source Code, click [Here](</Day 32/Birthday-Wisher-Project/main.py>) <br>
 
 https://github.com/user-attachments/assets/bb062786-9e57-4c0b-904e-283b6bbf6b69
 
