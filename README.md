@@ -1,6 +1,6 @@
 # 100 Days of Python Code Challenge 🐍
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Days Completed](https://img.shields.io/badge/Progress-30%2F100-brightgreen)
+![Days Completed](https://img.shields.io/badge/Progress-35%2F100-brightgreen)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/MaheenNaseem/100-Days-of-Code-Python-Challenge)
 
 ## 👋 Hello, I'm Maheen!
@@ -8,7 +8,7 @@ Welcome to my #100DaysOfCode Python Challenge repository. This space is dedicate
 
 ## Levels:
 - Beginner (Day 1 - Day 15) ✔️
-- Intermediate (Day 16 - Day 31) 
+- Intermediate (Day 16 - Day 31) ✔️ 
 - Intermediate + (Day 32 - Day 54)
 - Advanced (Day 59 - Day 81)
 - Professional Portfolio Project (Day 82 - Day 100)
