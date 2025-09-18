@@ -5,6 +5,7 @@ This project monitors Tesla's stock prices. If an increase/decrease of 5% is obs
 -  Uses [News Api](<https://newsapi.org/>) for fetcthing news related to Tesla
 -  Uses [Ethereal Email](<https://ethereal.email/>) for send/receiving emails
 ## Project Showcase:
-For Source Code [Click Here](</Day 36/Stock-News-Monitioring-Project/main.py>) <br>
+For Source Code [Click Here](</Day 36/Stock-News-Monitioring-Project/main.py>) 
+<br>
 <img width="1366" height="768" alt="D36 - B" src="https://github.com/user-attachments/assets/3fd35fab-7821-4744-ab96-52f3faccbac0" /> <br>
 <img width="1366" height="768" alt="D36 - C" src="https://github.com/user-attachments/assets/ce4ebba9-21a2-4710-8751-63173de78969" />
