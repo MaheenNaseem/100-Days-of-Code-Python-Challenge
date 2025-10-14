@@ -5,4 +5,4 @@ Included HTML Boilerplate explaination and more on HTML tags such as:
 3. Anchor Elements
 4. HTML Attributes
 5. Image Element
-And finally Birthday Invite Project
+<br>And finally Birthday Invite Project
