@@ -1,28 +1,77 @@
-# 100 Days of Python Code Challenge 🐍
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Days Completed](https://img.shields.io/badge/Progress-45%2F100-brightgreen)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/MaheenNaseem/100-Days-of-Code-Python-Challenge)
+# 🐍 100 Days of Python Code Challenge
 
-## 👋 Hello, I'm Maheen!
-Welcome to my #100DaysOfCode Python Challenge repository. This space is dedicated to documenting my daily coding journey, from learning the basics of Python to advanced projects.
+Welcome to my **#100DaysOfCode Python Challenge** repository!
 
-## Levels:
-- Beginner (Day 1 - Day 15) ✔️
-- Intermediate (Day 16 - Day 31) ✔️ 
-- Intermediate + (Day 32 - Day 54)
-- Advanced (Day 59 - Day 81)
-- Professional Portfolio Project (Day 82 - Day 100)
+This repository documents my journey of learning Python from basics to advanced level through consistent daily practice, projects, and problem-solving.
 
-## Each day's folder contains:
-- Challenge/Project Name folder
-- `.py` Source Code
-- README.md for description 
+---
 
-## 📖 Resources Used
-- [100 Days of Code: Python Bootcamp by Angela Yu](https://www.udemy.com/course/100-days-of-code/)
-- [Python Official Documentation](https://docs.python.org/3/)
-- StackOverflow, and Google!
+## 👩‍💻 About Me
+
+Hi, I'm **Maheen** 👋  
+I'm currently learning Python and building strong programming fundamentals through structured daily coding practice. This challenge helps me improve problem-solving, consistency, and real-world coding skills.
+
+---
+
+## 🎯 Challenge Goal
+
+- Build strong Python fundamentals
+- Improve problem-solving skills
+- Work on real mini-projects daily
+- Build a strong GitHub portfolio
+- Reach job-ready programming level
+
+---
+
+## 📊 Progress Breakdown
+
+- 🟢 Beginner (Day 1 – Day 15) [Completed]
+- 🟡 Intermediate (Day 16 – Day 40) [Completed]
+- 🟠 Intermediate+ (Day 41 – Day 70) [In Progress]
+- 🔴 Advanced (Day 71 – Day 90)
+- 🏆 Final Portfolio Projects (Day 91 – Day 100)
+
+---
+
+## 📁 Repository Structure
+
+Each day contains:
+
+```
+
+DayXX/
+├── day_end_project
+|   └── main.py
+|   └── other files (if needed)
+├── project_notes.md (if needed)
+└── README.md (optional explanation)
+
+```
+
+---
+
+## 📚 Resources Used
+
+- 100 Days of Code: Python Bootcamp – Angela Yu  
+- Python Official Documentation  
+- StackOverflow  
+- Google & practice problems  
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3
+- Git & GitHub
+- PyCharm
+
+---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/maheen-naseem-azeemi-0b7592250)
 
+- 💼 LinkedIn: https://www.linkedin.com/in/maheen-naseem-azeemi-0b7592250
+- 🐙 GitHub: https://github.com/MaheenNaseem
+
+
+⭐ If you like this repo, feel free to star it!
+```
