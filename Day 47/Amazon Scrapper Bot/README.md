@@ -44,7 +44,7 @@ python main.py
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * Use Gmail App Password (not normal password)
 * Amazon may block scraping requests
