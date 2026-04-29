@@ -1,9 +1,11 @@
 from selenium import webdriver
+from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 import os
+# teset233
 
 EMAIL = "test@gmail.com"
-PASSWORD = "password"
+PASSWORD = "t3$t_123"
 URL = "https://appbrewery.github.io/gym/"
 
 chrome_options = webdriver.ChromeOptions()
@@ -78,15 +80,54 @@ for card in class_cards:
                 already_done += 1
                 processed_classes.append(f"[New Waitlist] {class_info}")
 
-print(f'''\n------BOOKING SUMMARY------
-Classes Booked: {booked}
-Waitlists joined: {waitlisted}
-Already booked/waitlisted: {already_done}
-Total Tuesday & Thursday 6pm  classes processed: {booked+waitlisted+already_done}
-''')
+#  Step 06 - printing statement
+# print(f'''\n------BOOKING SUMMARY------
+# Classes Booked: {booked}
+# Waitlists joined: {waitlisted}
+# Already booked/waitlisted: {already_done}
+# Total Tuesday & Thursday 6pm  classes processed: {booked+waitlisted+already_done}
+# ''')
+#
+# print("\n--- DETAILED CLASS LIST ---")
+# for class_detail in processed_classes:
+#     print(f"  • {class_detail}")
 
-print("\n--- DETAILED CLASS LIST ---")
-for class_detail in processed_classes:
-    print(f"  • {class_detail}")
+#  step 07:
+
+total_booking = already_done+waitlisted+booked
+print(f"\n--- Total Tuesday/Thursday 6pm classes: {total_booking} ---")
+print("\n--- VERIFYING ON MY BOOKINGS PAGE ---")
+
+my_booking_btn = driver.find_element(By.CSS_SELECTOR , value="#my-bookings-link")
+my_booking_btn.click()
+
+driver.implicitly_wait(10)
+
+verified_count = 0
+
+all_cards = driver.find_elements(By.CSS_SELECTOR, "div[id*='card-']")
+for card in all_cards:
+    try:
+        when_paragraph = card.find_element(By.XPATH, ".//p[strong[text()='When:']]")
+        when_text = when_paragraph.text
+
+        # Check if it's a Tuesday or Thursday 6pm class
+        if ("Tue" in when_text or "Thu" in when_text) and "6:00 PM" in when_text:
+            class_name = card.find_element(By.TAG_NAME, "h3").text
+            print(f"  ✓ Verified: {class_name}")
+            verified_count += 1
+    except NoSuchElementException:
+        # Skip if no "When:" text found (not a booking card)
+        pass
+
+print(f"\n--- VERIFICATION RESULT ---")
+print(f"Expected: {total_booking} bookings")
+print(f"Found: {verified_count} bookings")
+
+if total_booking == verified_count:
+    print("SUCCESS: All bookings verified!")
+else:
+    print(f"MISMATCH: Missing {total_booking - verified_count} bookings")
+
 
 driver.quit()
