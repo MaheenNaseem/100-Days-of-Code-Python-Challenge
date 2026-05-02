@@ -27,9 +27,9 @@ I'm currently learning Python and building strong programming fundamentals throu
 
 - 🟢 Beginner (Day 1 – Day 15) [Completed]
 - 🟡 Intermediate (Day 16 – Day 40) [Completed]
-- 🟠 Intermediate+ (Day 41 – Day 70) [In Progress]
-- 🔴 Advanced (Day 71 – Day 90)
-- 🏆 Final Portfolio Projects (Day 91 – Day 100)
+- 🟠 Intermediate+ (Day 41 – Day 58) [In Progress]
+- 🔴 Advanced (Day 59 – Day 81)
+- 🏆 Final Portfolio Projects (Day 82 – Day 100)
 
 ---
 
